@@ -1,2 +1,3 @@
 # cen4802
-GitHub repo that I will use throughout this class
+Sarbarz Farahbakhsh
+GitHub Repo for CEN4802 Course
